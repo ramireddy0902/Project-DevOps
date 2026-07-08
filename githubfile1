@@ -1,1 +1,6 @@
-This is github for code Repositories from Rami & Nag
+echo "Hello" >> test.txt
+
+git add .
+git commit -m "Test"
+
+git push
